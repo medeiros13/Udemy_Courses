@@ -16,4 +16,5 @@ Os códigos ficam armazenados na pasta "source-code" dentro de cada pasta de cur
 
 | Nome do Curso | Link para o Repositório |
 | --- | --- |
-| [REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/) | [Link para o Repositório](./REST_APIs_RESTFul/README.md) |
+| [REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/) | [Repositório](./REST_APIs_RESTFul/README.md) |
+| [Curso C# Essencial 2023 (.NET 7)](https://www.udemy.com/course/curso-c-essencial-2023-bonus-linq/) | [Repositório](./CSharp_Essencial_2023/README.md) |
