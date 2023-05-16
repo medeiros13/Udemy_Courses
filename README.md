@@ -1,20 +1,19 @@
 # Udemy Courses
 
-This repository contains codes and summaries of the courses I am studying on the Udemy platform. The courses cover many areas, including programming, design, marketing, and business.
+Este repositório contém códigos e resumos dos cursos que estou estudando na plataforma Udemy. Os cursos são de diversas áreas, incluindo programação, design, marketing e negócios.
 
-## Supported Languages
-- [Portuguese](./README_PT.md)
-- [English](./README.md)
-- [Spanish](./README_ES.md)
+## Idiomas Suportados
 
-## Content
+- [Português](./README.md)
 
-Each folder in the repository contains the respective course material, including codes and summaries. 
+## Conteúdo
 
-The codes are stored in the `source-code` folder within each course folder, and the summaries are stored in the `README.md` files of each course folder. The summaries are a way of recording the main lessons learned in each course and serve as a quick reference for future consultations.
+Cada pasta do repositório contém o material do respectivo curso, incluindo códigos e resumos.
 
-## Courses
+Os códigos ficam armazenados na pasta "source-code" dentro de cada pasta de curso, e os resumos ficam armazenados nos arquivos README.md de cada pasta de curso. Os resumos são uma forma de registrar as principais lições aprendidas em cada curso e servem como uma referência rápida para futuras consultas.
 
-| Course Name | Link to Repository |
+## Cursos
+
+| Nome do Curso | Link para o Repositório |
 | --- | --- |
-| [REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/) | [Link to Repository](./REST_APIs_RESTFul/README.md) |
+| [REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/) | [Link para o Repositório](./REST_APIs_RESTFul/README.md) |
